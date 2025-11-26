@@ -1,0 +1,5 @@
+{
+  "name": "AudioScribe AI",
+  "description": "Умная транскрибация аудиозаписей с разделением по спикерам с использованием Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
